@@ -1,0 +1,22 @@
+[
+  {"id":1,"name":"Second-hand Laptop","price":800,"priceDiscount":700,"category":"Electronics","description":"Good condition, 8GB RAM","seller":"Juan Dela Cruz","postedDate":"2026-04-20","premiumProducts":false},
+  {"id":2,"name":"RTX 5090","price":15000,"category":"Electronics","description":"High-end graphics card for gaming","seller":"Joshua Lapuz","postedDate":"2026-04-22","premiumProducts":true},
+  {"id":3,"name":"iPhone 13 Pro","price":30000,"category":"Gadget","description":"48 Mega Pixel Camera","seller":"Joshua Lapuz","postedDate":"2026-04-23","premiumProducts":false},
+  {"id":4,"name":"Used Mountain Bike","price":900,"priceDiscount":800,"category":"Sports","description":"Well-maintained bike with disc brakes","seller":"Maria Santos","postedDate":"2026-04-15","premiumProducts":false},
+  {"id":5,"name":"Office Chair","price":950,"priceDiscount":850,"category":"Furniture","description":"Comfortable ergonomic chair","seller":"Ana Reyes","postedDate":"2026-04-18","premiumProducts":false},
+  {"id":6,"name":"Noise-cancelling Headphones","price":7200,"category":"Electronics","description":"Perfect for remote work and study","seller":"Kelvin Ong","postedDate":"2026-04-12","premiumProducts":false},
+  {"id":7,"name":"Electric Kettle","price":850,"priceDiscount":750,"category":"Home","description":"1.7L fast-boil kettle","seller":"Liza Garcia","postedDate":"2026-04-10","premiumProducts":false},
+  {"id":8,"name":"Smartwatch","price":950,"priceDiscount":850,"category":"Gadget","description":"Track fitness and notifications","seller":"Ralph Cruz","postedDate":"2026-04-14","premiumProducts":false},
+  {"id":9,"name":"Children's Study Table","price":650,"priceDiscount":550,"category":"Furniture","description":"Small desk with storage","seller":"Cathy dela Rosa","postedDate":"2026-04-08","premiumProducts":false},
+  {"id":10,"name":"Bluetooth Speaker","price":750,"priceDiscount":650,"category":"Electronics","description":"Portable speaker with battery life","seller":"Mark Villanueva","postedDate":"2026-04-05","premiumProducts":false},
+  {"id":11,"name":"Desk Lamp","price":500,"priceDiscount":400,"category":"Furniture","description":"LED desk lamp with USB charging","seller":"Lisa Chen","postedDate":"2026-04-02","premiumProducts":false},
+  {"id":12,"name":"USB-C Hub","price":600,"priceDiscount":500,"category":"Electronics","description":"Multi-port USB-C hub adapter","seller":"Peter Wong","postedDate":"2026-03-28","premiumProducts":false},
+  {"id":13,"name":"Running Shoes","price":780,"priceDiscount":680,"category":"Sports","description":"Professional running shoes size 10","seller":"Maria Garcia","postedDate":"2026-04-01","premiumProducts":false},
+  {"id":14,"name":"Coffee Maker","price":999,"priceDiscount":850,"category":"Home","description":"Automatic coffee machine brewer","seller":"David Lee","postedDate":"2026-03-30","premiumProducts":false},
+  {"id":15,"name":"Wireless Mouse","price":450,"priceDiscount":350,"category":"Electronics","description":"Ergonomic wireless mouse 2.4GHz","seller":"Sarah Kim","postedDate":"2026-04-03","premiumProducts":false},
+  {"id":16,"name":"Budget Keyboard","price":450,"priceDiscount":350,"category":"Electronics","description":"Mechanical keyboard RGB lights","seller":"John Smith","postedDate":"2026-04-25","premiumProducts":false},
+  {"id":17,"name":"Yoga Mat","price":300,"priceDiscount":250,"category":"Sports","description":"Non-slip yoga mat 6mm thick","seller":"Yoga Pro","postedDate":"2026-04-24","premiumProducts":true},
+  {"id":18,"name":"Bookshelf","price":800,"priceDiscount":700,"category":"Furniture","description":"5-shelf wooden bookshelf","seller":"Home Decor","postedDate":"2026-04-23","premiumProducts":false},
+  {"id":19,"name":"Blender","price":650,"priceDiscount":550,"category":"Home","description":"High-speed blender 1.5L jar","seller":"Kitchen Aid","postedDate":"2026-04-22","premiumProducts":false},
+  {"id":20,"name":"Fitness Tracker","price":750,"priceDiscount":650,"category":"Gadget","description":"Heart rate fitness tracker watch","seller":"FitLife","postedDate":"2026-04-21","premiumProducts":false}
+]
