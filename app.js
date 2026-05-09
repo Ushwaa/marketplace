@@ -17,6 +17,8 @@ const AppError = require('./AppError');
 
 const app = express();
 
+// Trust proxy (required for Render/Heroku deployments)
+app.set('trust proxy', 1);
 
 // 1. PRE-LOAD DATA & TEMPLATES (Requirement: fs.readFileSync)
 // These are loaded once at startup to improve performance

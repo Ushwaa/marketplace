@@ -72,10 +72,8 @@ userSchema.pre('save', function() {
 });
 
 // MIDDLEWARE: Filter out inactive users from all queries
-userSchema.pre(/^find/, function(next) {
-  // this points to the current query
+userSchema.pre(/^find/, function() {
   this.find({ active: { $ne: false } });
-  next();
 });
 
 // METHOD: Compare password
